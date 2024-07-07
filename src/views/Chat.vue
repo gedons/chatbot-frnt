@@ -152,7 +152,7 @@
       },
       endChat() {
         this.messages.push({ id: this.messages.length + 1, text: 'User: End Chat' });
-        this.messages.push({ id: this.messages.length + 2, text: 'Bot: The chat has ended. Thank you!' });
+        this.messages.push({ id: this.messages.length + 2, text: 'Bot: The chat has ended. Refresh the page to clear, Thank you!!' });
         this.chatEnded = true; 
       },
       playNotificationSound() {
