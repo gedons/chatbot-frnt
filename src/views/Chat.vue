@@ -120,7 +120,7 @@
             this.scrollToBottom(); 
 
             setTimeout(async () => {
-            const response = await axios.post('http://localhost:5000/chat', {
+            const response = await axios.post('https://chat-bot-ad8c.onrender.com/chat', {
                 message: userMessage
             });
             const botResponse = response.data.response;
