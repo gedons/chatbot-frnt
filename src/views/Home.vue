@@ -5,7 +5,7 @@
 				<img src="../assets/imgg.jpg" alt="" class="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128">
 			</div>
 			<div class="flex flex-col justify-center p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
-				<h1 class="text-5xl font-bold leading-none sm:text-6xl">Smartphone  
+				<h1 class="text-5xl font-bold leading-none sm:text-6xl">Smart  
 					<span class="dark:text-violet-600">Store </span>Chatbot
 				</h1>
 				<p class="mt-6 mb-8 text-lg sm:mb-12">The Smartphone Store Chatbot is an intelligent assistant designed to enhance the shopping
